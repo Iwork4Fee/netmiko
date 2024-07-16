@@ -1,4 +1,4 @@
-setuptools>=38.4.0
+setuptools>=70.0.0
 paramiko>=2.6.0
 scp>=0.13.2
 tenacity
